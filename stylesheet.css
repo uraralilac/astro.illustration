@@ -77,7 +77,7 @@ body {
   }
   
   .header-left {
-    text-align
+    text-align:center;
     font-family: "TsukuARdGothic-Regular";
     color: #383131;
   }

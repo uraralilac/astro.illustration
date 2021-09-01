@@ -109,6 +109,10 @@ header {
   color: #fadcd7;
 }
 
+.message{
+  background-color:white;
+}
+
 .heading h2 {
   font-weight: normal;
   color: rgb(104, 91, 86);

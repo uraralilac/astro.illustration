@@ -108,13 +108,13 @@ header {
 .heading {
   padding-top: 60px;
   padding-bottom: 30px;
-  color: rgb(104, 91, 86);
+  color:#B4533C;
 }
 
 
 .heading h2 {
   font-weight: normal;
-  color: rgb(104, 91, 86);
+  color: #B4533C;
 }
 
 .lesson {

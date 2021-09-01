@@ -175,6 +175,8 @@ footer p {
 }
 
 footer {
+ height: 40px;
+ width: 100%;
  background-color: #F9AA8F;
-  opacity: 0.5;
+ opacity: 0.5;
 }

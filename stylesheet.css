@@ -97,7 +97,7 @@ header {
 .lesson-wrapper {
   height: 500px;
   padding-bottom: 80px;
-  background-color: #fffaf0;
+  background-color: #FEF0FF;
   text-align: center;
 }
 
@@ -142,14 +142,14 @@ header {
 
 .message-wrapper {
   border-bottom: 1px solid #eee;
-  background-color:#fffaf0;
+  background-color:#FEF0FF;
   padding-bottom: 80px;
   text-align: center;
 }
 
 .message {
   padding: 15px 40px;
-  background-color: #fffaf0;
+  background-color: #FEF0FF;
   cursor: pointer;
   box-shadow: 0 7px #1a7940;
 }
@@ -171,5 +171,5 @@ footer p {
 
 footer {
   padding-top: 30px;
-  background-color:#fffaf0;
+  background-color:#FEF0FF;
 }

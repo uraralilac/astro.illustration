@@ -16,7 +16,7 @@ a {
 .top-wrapper {
   padding: 180px 0 100px 0;
   background-image: url(http://img2.imepic.jp/image/20210901/509850.jpg?3db299f9b3efa58932fd3039a50be7dd);
-  background-size: cover;
+  background-size: contain;
   opacity: 0.7;
   color: rgb(65, 48, 48);
   text-align: left;

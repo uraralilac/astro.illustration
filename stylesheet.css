@@ -106,12 +106,9 @@ header {
 .heading {
   padding-top: 60px;
   padding-bottom: 30px;
-  color: #fadcd7;
+  color: rgb(104, 91, 86);
 }
 
-.message{
-  background-color:white;
-}
 
 .heading h2 {
   font-weight: normal;

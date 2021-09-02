@@ -1,153 +1,164 @@
 body {
-  margin: 0;
-  font-family: "Hiragino Kaku Gothic ProN";
-}
-
-a {
-  text-decoration: none;
-}
-
-.container {
-  width: 1170px;
-  padding: 0 15px;
-  margin: 0 auto;
-}
-
-.top-wrapper {
-  padding: 180px 0 100px 0;
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-image: url();
+    margin: 0;
+    font-family: "Hiragino Kaku Gothic ProN";
+  }
   
-  opacity: 0.7;
-  color: rgb(65, 48, 48);
-  text-align: left;
-}
-
-.top-wrapper h1 {
-  opacity: 0.7;
-  font-size: 45px;
-  letter-spacing: 5px;
-}
-
-
-.top-image {
-   text-align:center;
-   width: 1000px;
-   height: auto;
+  a {
+    text-decoration: none;
+  }
   
-}
-
-
-
-.top-wrapper p {
-  opacity: 0.7;
-  text-align: left;
-}
-
-.btn-wrapper {
-  margin: 20px 0;
-}
-
-.btn-wrapper p {
-  margin: 10px 0;
-}
-
-
-
-.twitter {
-  background-color:#66cdaa;
-}
-
-.btn {
-  padding: 8px 24px;
-  color: white;
-  display: inline-block;
-  opacity: 0.8;
-  border-radius: 4px;
-}
-
-.btn:hover {
-  opacity: 1;
-}
-
-
-
-header {
-  height: 100px;
-  width: 100%;
-  background-color: #66cdaa;
-  opacity: 0.5;
-  position:fixed;
-  top:0;
-  z-index:10;
-}
-
-
-
-.header-left {
-  float:left;
+  .container {
+    width: 1170px;
+    padding: 0 15px;
+    margin: 0 auto;
+  }
   
-}
-
-.header-right {
-
-}
-
-.header-right:hover {
-  background-color: rgba(255, 255, 255, 0.5);
-}
-
-.header-right a {
+  .top-wrapper {
+    padding: 180px 0 100px 0;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url();
+    
+    opacity: 0.7;
+    color: rgb(65, 48, 48);
+    text-align: left;
+  }
   
-}
-
-
-.heading {
-  padding-top: 60px;
-  padding-bottom: 30px;
-  color:#008080;
-}
-
-
-.heading h2 {
-  font-weight: normal;
-  color: #B4533C;
-}
-
-.icon {
-  float:left;
-  width: 25%;
-  color: #008080;
-  height: 1000px;
-  padding-bottom: 80px;
-  background-color: #ffffff;
-}
-
-.menu-icon {
+  .top-wrapper h1 {
+    opacity: 0.7;
+    font-size: 45px;
+    letter-spacing: 5px;
+  }
   
-}
-
-.menu-icon p {
   
-  width: 80%;
-  display: inline-block;
-  margin-top: 15px;
-  color: #008080;
-}
+  .top-image {
+     text-align:center;
+     width: 1000px;
+     height: auto;
+    
+  }
+  
+  
+  
+  .top-wrapper p {
+    opacity: 0.7;
+    text-align: left;
+  }
+  
+  .btn-wrapper {
+    margin: 20px 0;
+  }
+  
+  .btn-wrapper p {
+    margin: 10px 0;
+  }
+  
+  
+  
+  .twitter {
+    background-color:#66cdaa;
+  }
+  
+  .btn {
+    padding: 8px 24px;
+    color: white;
+    display: inline-block;
+    opacity: 0.8;
+    border-radius: 4px;
+  }
+  
+  .btn:hover {
+    opacity: 1;
+  }
+  
+  
+  
+  header {
+    height: 100px;
+    width: 100%;
+    background-color: #66cdaa;
+    opacity: 0.5;
+    position:fixed;
+    top:0;
+    z-index:10;
+  }
+  
+  
+  
+  .header-left {
+    float:left;
+    
+  }
+  
+  .header-right {
+  
+  }
+  
+  .header-right:hover {
+    background-color: rgba(255, 255, 255, 0.5);
+  }
+  
+  .header-right a {
+    
+  }
+  
+  
+  .heading {
+    padding-top: 60px;
+    padding-bottom: 30px;
+    color:#008080;
+  }
+  
+  
+  .heading h2 {
+    font-weight: normal;
+    color: #B4533C;
+  }
+  
+  .icon {
+    float:left;
+    width: 25%;
+    color: #008080;
+    height: 1000px;
+    padding-bottom: 80px;
+    background-color: #ffffff;
+  }
+  
+  .menu-icon {
+    
+  }
+  
+  .menu-icon p {
+    
+    width: 80%;
+    display: inline-block;
+    margin-top: 15px;
+    color: #008080;
+  }
+  
+  
+  .message{
+
+    height: 1000px;
+    padding-bottom: 80px;
+    background-color: #ffffff;
+    color: #008080;
 
 
 
-
-
-footer p {
-  color: #2f4f4f;
-  font-size: 12px;
-}
-
-footer {
- height: 70px;
- width: 100%;
- background-color: #66cdaa;
- opacity: 0.5;
-}
+  }
+  
+  
+  
+  footer p {
+    color: #2f4f4f;
+    font-size: 12px;
+  }
+  
+  footer {
+   height: 50px;
+   width: 100%;
+   background-color: #66cdaa;
+   opacity: 0.5;
+  }
+  

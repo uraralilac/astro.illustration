@@ -123,16 +123,16 @@ header {
   color: #B4533C;
 }
 
-.lesson {
+.icon {
   float: left;
   width: 25%;
 }
 
-.lesson-icon {
+.menu-icon {
   position: relative;
 }
 
-.lesson-icon p {
+.menu-icon p {
   position: absolute;
   top: 90px;
   width: 100%;

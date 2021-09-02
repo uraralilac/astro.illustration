@@ -89,6 +89,10 @@ body {
     float:left;
     
   }
+
+  .header-left h1 {
+     color:#000000;
+  }
   
   .header-right {
   

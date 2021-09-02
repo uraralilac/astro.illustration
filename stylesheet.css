@@ -95,15 +95,22 @@ body {
   }
   
   .header-right {
-  
+    float: right;
+    margin-right: -25px;
+    
   }
   
-  .header-right:hover {
+  .header-right a:hover {
     background-color: rgba(255, 255, 255, 0.5);
   }
   
   .header-right a {
-    
+    line-height: 85px;
+   padding: 0 25px;
+   color:#000000;
+   display: block;
+   float: left;
+   transition: all 0.5s;
   }
   
   

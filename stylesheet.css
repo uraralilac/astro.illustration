@@ -74,7 +74,7 @@ a {
 header {
   height: 80px;
   width: 100%;
-  background-color: #F9AA8F;
+  background-color: #66cdaa;
   opacity: 0.5;
   position:fixed;
   top:0;
@@ -191,6 +191,6 @@ footer p {
 footer {
  height: 40px;
  width: 100%;
- background-color: #F9AA8F;
+ background-color: #66cdaa;
  opacity: 0.5;
 }

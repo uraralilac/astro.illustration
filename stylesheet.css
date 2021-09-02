@@ -134,7 +134,8 @@ header {
 }
 
 .icon {
-  justify-content: space-between;
+  float:left;
+  width: 25%;
   color: #008080;
 }
 

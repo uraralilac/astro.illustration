@@ -150,10 +150,7 @@ body {
   
   
   
-  footer p {
-    color: #2f4f4f;
-    font-size: 12px;
-  }
+  
   
   footer {
    height: 50px;
@@ -162,3 +159,8 @@ body {
    opacity: 0.5;
   }
   
+
+  footer p {
+    color: #2f4f4f;
+    font-size: 20px;
+  }

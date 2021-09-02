@@ -134,8 +134,8 @@ header {
 }
 
 .icon {
-  float: left;
-  width: 25%;
+  justify-content: space-between;
+  color: #008080;
 }
 
 .menu-icon {

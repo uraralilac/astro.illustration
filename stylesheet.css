@@ -144,8 +144,9 @@ header {
 
 .menu-icon p {
   
-  top: 90px;
-  width: 100%;
+  width: 80%;
+  display: inline-block;
+  margin-top: 15px;
   color: #008080;
 }
 

@@ -83,21 +83,15 @@ header {
   z-index:10;
 }
 
-.logo {
-  width: 124px;
-  margin-top: 20px;
-}
+
 
 .header-left {
   float:left;
-  font-family: "TsukuARdGothic-Regular";
-  color: #383131;
+  
 }
 
 .header-right {
-  
-  background-color: rgba(255, 255, 255, 0.3);
-  transition: all 0.5s;
+
 }
 
 .header-right:hover {
@@ -106,18 +100,6 @@ header {
 
 .header-right a {
   
-}
-
-.lesson-wrapper {
-  height: 1000px;
-  padding-bottom: 80px;
-  background-color: #ffffff;
-  
-}
-
-.lesson-wrapper p {
-  margin-top:30px;
-  text-align: left;
 }
 
 
@@ -137,6 +119,9 @@ header {
   float:left;
   width: 25%;
   color: #008080;
+  height: 1000px;
+  padding-bottom: 80px;
+  background-color: #ffffff;
 }
 
 .menu-icon {
@@ -151,49 +136,17 @@ header {
   color: #008080;
 }
 
-.txt-contents {
-  width: 80%;
-  display: inline-block;
-  margin-top: 20px;
-  font-size: 12px;
-  color: #b3aeb5;
-}
 
-.heading h3 {
-  font-weight: normal;
-}
 
-.message-wrapper {
-  border-bottom: 1px solid #eee;
-  background-color:#F0F0F0;
-  padding-bottom: 80px;
-  text-align: center;
-}
 
-.message {
-  padding: 15px 40px;
-  background-color: #F0F0F0;
-  cursor: pointer;
-  box-shadow: 0 7px #1a7940;
-}
-
-.message:active {
-  position: relative;
-  top: 7px;
-  box-shadow: none;
-}
-
-footer img {
-  width: 125px;
-}
 
 footer p {
-  color: #b3aeb5;
+  color: #2f4f4f;
   font-size: 12px;
 }
 
 footer {
- height: 40px;
+ height: 50px;
  width: 100%;
  background-color: #66cdaa;
  opacity: 0.5;

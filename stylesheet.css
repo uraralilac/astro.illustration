@@ -139,14 +139,14 @@ header {
 }
 
 .menu-icon {
-  position: relative;
+  
 }
 
 .menu-icon p {
-  position: absolute;
+  
   top: 90px;
   width: 100%;
-  color: white;
+  color: #008080;
 }
 
 .txt-contents {

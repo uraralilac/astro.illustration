@@ -132,7 +132,7 @@ header {
 }
 
 .icon {
-  float: left;
+  justify-content: space-between;
   width: 25%;
 }
 

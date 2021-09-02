@@ -116,7 +116,7 @@ body {
   }
   
   .icon {
-    float:left;
+    margin:auto;
     width: 25%;
     color: #008080;
     height: 1000px;

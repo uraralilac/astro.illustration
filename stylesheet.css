@@ -178,7 +178,7 @@ body {
   
   .message{
 
-    height: 500px;
+    height: 300px;
     padding-bottom: 80px;
     background-color: #ffffff;
     color: #008080;
@@ -196,7 +196,7 @@ body {
 }
   
 
-.illustration{
+.illustration {
       height: 1000px;
       padding-bottom: 80px;
       background-color: #ffffff;

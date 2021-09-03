@@ -143,7 +143,9 @@ body {
     background-color: #ffffff;
   }
   
- 
+  .menuicon {
+      margin-left: 120px;
+  }
   
   .menuicon p {
     

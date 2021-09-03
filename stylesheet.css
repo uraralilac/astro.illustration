@@ -131,13 +131,13 @@ body {
   
   .heading h2 {
     font-weight: normal;
-    text-align: center;
+    text-align: left;
     color: #008080;
   }
 
   .heading p {
 
-    text-align: center;
+    text-align: left;
     color: #008080;
   }
   

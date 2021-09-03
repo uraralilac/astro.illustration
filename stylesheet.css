@@ -136,7 +136,7 @@ body {
   
   .icon {
     float:left;
-    width: 33%;
+    width: 30%;
     color: #07a7a7ea;
     height: 1000px;
     padding-left: 3px;
@@ -151,7 +151,7 @@ body {
     
     width: 80%;
     display: inline-block;
-    margin: 15px 0px 0px 5px;
+    text-align: center;
     color: #07a7a7ea;
     
   }

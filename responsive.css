@@ -5,5 +5,12 @@
   
   
   @media all and (max-width: 670px) {
-    
+   .top-image {
+       max-width: 100%;
+      }
+   .icons {
+       display: flex;
+ 　
+        flex-direction: column;
+      }
   }

@@ -156,6 +156,10 @@ body {
     
   }
   
+
+.clear {
+  clear: left;
+}
   
   .message{
 

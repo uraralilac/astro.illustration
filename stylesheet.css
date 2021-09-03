@@ -131,7 +131,8 @@ body {
   
   .heading h2 {
     font-weight: normal;
-    color: #B4533C;
+    text-align: center;
+    color: #008080;
   }
   
   .icon {

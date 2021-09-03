@@ -5,5 +5,7 @@
   
   
   @media all and (max-width: 670px) {
-    
+    .menuicon　{
+    width: 100%;
+  }
   }

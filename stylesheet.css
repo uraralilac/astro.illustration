@@ -134,6 +134,12 @@ body {
     text-align: center;
     color: #008080;
   }
+
+  .heading p {
+
+    text-align: center;
+    color: #008080;
+  }
   
   .icon {
     float:left;

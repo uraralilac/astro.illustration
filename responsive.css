@@ -4,12 +4,19 @@
   }
   
   
-  @media all and (max-width: 670px) {
+  @media screen and (max-width: 480px){
    .top-image {
        max-width: 100%;
       }
    .icons {
-       display: flex;
-       flex-direction: column;
-      }
-  }
+       
+
+　　float: none;
+
+
+
+　　width: 100% ;
+
+
+
+  　}

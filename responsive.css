@@ -5,6 +5,12 @@
   
   
   @media screen and (max-width: 480px){
+   . header{
+       max-width: 100%;
+       
+      }
+       
+      
    .top-image {
        max-width: 100%;
       }

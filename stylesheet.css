@@ -179,7 +179,7 @@ body {
   .message{
 
     height: 300px;
-    padding-bottom: 80px;
+    padding-bottom:80px;
     background-color: #ffffff;
     color: #008080;
 
@@ -190,7 +190,7 @@ body {
   .introduction {
       text-align:center;
       height: 1000px;
-      padding-bottom: 80px;
+      padding:80px 0px 80px 0px;
       background-color: #ffffff;
       color: #008080;
       

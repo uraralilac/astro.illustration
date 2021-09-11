@@ -222,6 +222,12 @@ clear: left;
 }
 
 
+.illustration p {
+  font-size: 30px;
+  text-align:center;
+
+}
+
 footer {
  height: 90px;
  width: 100%;
